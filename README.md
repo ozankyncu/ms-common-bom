@@ -1,1 +1,1 @@
-# ms-common-bom
+# Common bom project for using microservices
